@@ -1,0 +1,19 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    margin: 0px;
+}
+
+.imageTrophy{
+    width: 40%;
+    height: 40%;
+}
+
+.scoreboard{
+    display: flex;
+    text-align: center;
+    font-size: 24px;
+    flex-direction: column;
+    font-weight: lighter;
+    justify-content: center;
+    align-items: center;
+}
